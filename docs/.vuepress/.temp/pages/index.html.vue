@@ -1,4 +1,3 @@
-<template><div><!-- '# Lucky Code'  -->
-</div></template>
+<template><div></div></template>
 
 
