@@ -15,7 +15,7 @@ export const navbar = [
   
 
 export default defineUserConfig({
-    title: 'LuckyCode Blogs',
+    title: 'LuckyCode Blog',
     theme: recoTheme({
         series: {
             '/vuepress-theme-reco/': [ 'introduce', 'usage' ]
