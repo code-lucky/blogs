@@ -1,8 +1,9 @@
 # compiled output
 /dist
 /node_modules
-/docs/.vuepress/dist
-
+/docs/.vuepress/.cache/*
+/docs/.vuepress/.temp/*
+/docs/.vuepress/dist/*
 # Logs
 logs
 *.log

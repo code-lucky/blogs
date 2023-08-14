@@ -6,7 +6,7 @@ modules: # 指定首页展示模块
   - MdContent
 banner: # banner 模块的配置
   heroText: LuckyCode
-  tagline: '用于记录日常记录日常开发发现的问题及记录新知识的学习'
+  tagline: '用于记录日常开发发现的问题及新知识的学习'
   heroImage: ''
   heroImageStyle:
     maxWidth: 200px
