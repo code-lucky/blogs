@@ -10,7 +10,7 @@ export const navbar = [
             {text: '稀土掘金',link: 'https://juejin.cn/user/62036934154445',},
         ],
     },
-    { text: '留言板', link: '/1',},
+    // { text: '留言板', link: '/1',},
 ]
   
 
