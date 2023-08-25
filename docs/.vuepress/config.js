@@ -11,6 +11,7 @@ export const navbar = [
         ],
     },
     // { text: '留言板', link: '/1',},
+    { text: '掘金自动签到', link: 'http://124.222.178.74/juejin/login.html',},
 ]
   
 
