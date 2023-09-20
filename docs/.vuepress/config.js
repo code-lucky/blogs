@@ -24,5 +24,10 @@ export default defineUserConfig({
         navbar, // 顶部或者左侧导航栏
         author: 'LuckyCode',    //作者名字
         authorAvatar: '/avatar.jpg'     //作者头像
-    })
+    }),
+    plugins:[
+        googleAnalyticsPlugin({
+            id:'G-YBPVP0BT8H'
+        })
+    ]
 })
