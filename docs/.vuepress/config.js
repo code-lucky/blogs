@@ -25,9 +25,9 @@ export default defineUserConfig({
         author: 'LuckyCode',    //作者名字
         authorAvatar: '/avatar.jpg'     //作者头像
     }),
-    plugins:[
-        googleAnalyticsPlugin({
-            id:'G-YBPVP0BT8H'
-        })
-    ]
+    // plugins:[
+    //     googleAnalyticsPlugin({
+    //         id:'G-YBPVP0BT8H'
+    //     })
+    // ]
 })
