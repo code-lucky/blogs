@@ -9,9 +9,7 @@ export const navbar = [
             { text: 'github', link: 'https://github.com/code-lucky' },
             {text: '稀土掘金',link: 'https://juejin.cn/user/62036934154445',},
         ],
-    },
-    // { text: '留言板', link: '/1',},
-    // { text: '掘金自动签到', link: 'http://124.222.178.74/juejin/login.html',},
+    }
 ]
   
 
@@ -24,10 +22,5 @@ export default defineUserConfig({
         navbar, // 顶部或者左侧导航栏
         author: 'LuckyCode',    //作者名字
         authorAvatar: '/avatar.jpg'     //作者头像
-    }),
-    // plugins:[
-    //     googleAnalyticsPlugin({
-    //         id:'G-YBPVP0BT8H'
-    //     })
-    // ]
+    })
 })
